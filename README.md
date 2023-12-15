@@ -1,0 +1,5 @@
+## Redme please:
+Here is the solution I found for the coding challenge. I didn't use any third-party libraries, just JavaScript, not TypeScript. 
+If contacted and considered, I could also solve the challenge using TypeScript and further improve the code considering other things that I'm going to mention next: 
+
+There's something to keep in mind: as I want to submit the solution relatively quickly, there's one thing I didn't take into account, and it could be that the solution might not be ideal. When a user travels multiple times to work within a time frame or it appears that they worked more than once, I'm not summing up those time spans between them. I'm only considering it as if they made a single trip, so to speak. Also, it's important to note that I'm a junior; it would be my first job. But I'll always find a way to solve any problem, no matter how long it takes or how difficult it is. I look forward to your response, and greetings.
